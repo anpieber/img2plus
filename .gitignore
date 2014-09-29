@@ -52,3 +52,8 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Keys & Secrets
+img2plus.p12
+img2plus.json
+
