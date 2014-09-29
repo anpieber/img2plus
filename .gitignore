@@ -53,6 +53,10 @@ docs/_build/
 # PyBuilder
 target/
 
+# Intellij
+*.iml
+.idea
+
 # Keys & Secrets
 img2plus.p12
 img2plus.json
